@@ -30,4 +30,4 @@ Contributions are welcome, but please make sure you read and fill out the [the p
 Please do not modify any of the static files (html, csv, txt, or xml). These files are dynamically generated.
 
 ## To Support The Creators
-We'd rather any money go to a good cause. Send any donations instead to <https://voting.works>!
+We'd rather receive any money to go to a good cause. Send any donations instead to <https://voting.works>!
